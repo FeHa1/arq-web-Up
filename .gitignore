@@ -9,7 +9,7 @@
 /coverage
 
 # production
-/build
+# borro el "/build" porque quiero que lo vea el profe, pero generalemente no se borra
 
 # misc
 .DS_Store
